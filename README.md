@@ -10,6 +10,8 @@ This project is an online weather application that provides users with real-time
 
 # Demo
 
+https://avramenkomarina.github.io/app-weather/
+
 # Technologies
 
 - HTML: Structure of the web pages.
