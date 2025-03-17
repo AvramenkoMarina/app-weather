@@ -47,7 +47,7 @@
 		</div>
 
 		<script>
-			const apiKey = process.env.API_KEY
+			const apiKey = '2ba0b870940eecd5fb3ce65ed52f2ba3'
 			const apiUrl =
 				'https://api.openweathermap.org/data/2.5/weather?units=metric&q='
 
@@ -90,6 +90,7 @@
 						rain: 'images/rainy.png',
 						drizzle: 'images/drizzle.png',
 						mist: 'images/mist.png',
+						snow: 'images/snow.png',
 					}
 					weatherIcon.src =
 						weatherIcons[weatherCondition] || 'images/default.png'
